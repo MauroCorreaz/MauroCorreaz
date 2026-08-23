@@ -18,6 +18,11 @@ I am a university student in Technology, specializing in software development. M
 - 📫 Contact me at:
 johan.quimbayo@uniminuto.edu.co
 
+⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MauroCorreaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MauroCorreaz&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-<div align="center">
-<img width="200" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
